@@ -1,7 +1,7 @@
 # 布的收藏夹
 ## 别人  
 ### Procedural Sign Generator - Geometry Nodes
-[<img src="https://d1231c29xbpffx.cloudfront.net/store/product/195652/image/a54bdd26ab63494deda501ab715b1622.jpg" alt="Procedural Sign Generator - Geometry Nodes" style="zoom: 25%;" />](https://pan.baidu.com/s/1ipqjbrPkg9288e4vqvOchA?pwd=bude)
+[<img src="https://d1231c29xbpffx.cloudfront.net/store/product/195652/image/a54bdd26ab63494deda501ab715b1622.jpg" alt="Procedural Sign Generator - Geometry Nodes" style="zoom: 33%;" />](https://pan.baidu.com/s/1ipqjbrPkg9288e4vqvOchA?pwd=bude)
 
 ### Blender Exploder Tool
 [<img src="https://d1231c29xbpffx.cloudfront.net/store/product/194773/image/1725945962020ad12ae9aadca937b93e.png" alt="Blender Exploder Tool" style="zoom: 50%;" />](https://pan.baidu.com/s/10-F7QVU8h3RtuCblNrHn3Q?pwd=bude)
@@ -30,3 +30,18 @@
 ### Engine Fxs 
 [<img src="https://d1231c29xbpffx.cloudfront.net/store/product/191159/image/d66805af49d9f2bd7f92305770bb43e1.jpg" alt="Engine Fxs" style="zoom: 25%;" />](https://pan.baidu.com/s/15vL3in5kSC4oEoXRwmvpKQ?pwd=bude)
 
+### Light Control 
+[<img src="https://d1231c29xbpffx.cloudfront.net/store/product/188922/image/090900a5280e42e06a507adea81d0aef.png" alt="Light Control" style="zoom: 25%;" />](https://pan.baidu.com/s/1txm7FrrOv54qTVuey2TkaA?pwd=bude)
+
+### blender geometry nodes dirt path generator
+[<img src="http://i1.hdslb.com/bfs/archive/c8b23375e72f28be3b85251bd65c9a10c44e709a.png" alt="blender geometry nodes dirt path generatorl" style="zoom: 25%;" />](https://pan.baidu.com/s/1zICgHS_O2y93eAsNd7T3xA?pwd=bude)
+
+
+### blender geometry nodes dirt path generator
+[<img src="https://d1231c29xbpffx.cloudfront.net/store/product/190680/image/8ff5dcead0b24b967aa1d48cae8f1f75.png" alt="blender geometry nodes dirt path generatorl" style="zoom: 25%;" />](https://pan.baidu.com/s/1T526H6jI2AqXsmg2SAFkRw?pwd=bude)
+
+### blender geometry nodes dirt path generator
+[<img src="https://d1231c29xbpffx.cloudfront.net/store/product/190496/image/e2ea24b35f5730a97f4c209b82cc5986.jpg" alt="blender geometry nodes dirt path generatorl" style="zoom: 25%;" />](https://pan.baidu.com/s/1VVadJWYHBEHzw_2LYDcqeg?pwd=bude)
+
+### Lodmod
+[<img src="https://d1231c29xbpffx.cloudfront.net/store/product/186195/image/ebdfc3b3c291de8e6f1b081fcf9927f3.jpg" alt="Lodmod" style="zoom: 25%;" />](https://pan.baidu.com/s/1qz45MaT_PM5Yo5zEm_LdzQ?pwd=bude)
