@@ -3,7 +3,7 @@
 ## 社交媒体
 
 ### Procedural Sign Generator - Geometry Nodes
-[![Procedural Sign Generator - Geometry Nodes](https://d1231c29xbpffx.cloudfront.net/store/product/195652/image/a54bdd26ab63494deda501ab715b1622.jpg)](https://pan.baidu.com/s/1ipqjbrPkg9288e4vqvOchA?pwd=bude)
+[![Procedural Sign Generator - Geometry Nodes](https://d1231c29xbpffx.cloudfront.net/store/product/195652/image/a54bdd26ab63494deda501ab715b1622.jpg =600*600)](https://pan.baidu.com/s/1ipqjbrPkg9288e4vqvOchA?pwd=bude)
 
 ### Instagram
 [![Instagram](https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png)](https://pan.baidu.com/s/1ipqjbrPkg9288e4vqvOchA?pwd=bude)
